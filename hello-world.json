@@ -1,0 +1,34 @@
+[
+  {
+    "language_code": "en",
+    "message": "Hello World!"
+  },
+  {
+    "language_code": "es",
+    "message": "¡Hola Mundo!"
+  },
+  {
+    "language_code": "fr",
+    "message": "Bonjour le monde!"
+  },
+  {
+    "language_code": "de",
+    "message": "Hallo Welt!"
+  },
+  {
+    "language_code": "zh",
+    "message": "你好，世界！"
+  },
+  {
+    "language_code": "ja",
+    "message": "こんにちは、世界！"
+  },
+  {
+    "language_code": "hi",
+    "message": "नमस्ते दुनिया!"
+  },
+  {
+    "language_code": "ar",
+    "message": "مرحبا بالعالم!"
+  }
+]
