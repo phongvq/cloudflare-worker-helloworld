@@ -69,6 +69,7 @@ export default {
       mimeType += "; charset=utf-8";
     }
 
+
     //get the value from the KV store and return it if found
     const value = await env.assets.get(key, 'arrayBuffer')
     if(!value){
